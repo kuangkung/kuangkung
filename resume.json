@@ -4,30 +4,31 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "name":"匡萃侠",
+    "email":"kcx2603@foxmail.com",
+    "mobile":"15779672603",
+    "github":"https://github.com/kuangkung",
+    "zhihu":"",
+    "workExpYear":"3年+",
+    "positionTitle":"Java开发工程师",
+    "workPlace":"浙江杭州"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2015.09.01", "2019.06.30"],
+      "school": "东华理工大学",
+      "major": "软件工程",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "英语 CET4",
+      "award_time": "2016"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "技术之星",
+      "award_time": "2021.04"
     },
     {
       "award_info": "前端练习生 可视化讲师",
