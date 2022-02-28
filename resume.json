@@ -42,7 +42,8 @@
     },
     {
       "award_time": "2019",
-      "award_info": "「卓越工程师教育培养计划」证书"
+      "award_info": "「卓越工程师教育培养计划」证书",
+      "dataIndex": 1
     },
     {
       "award_info": "蘑菇街·锐鲨「技术之星」证书",
@@ -52,31 +53,25 @@
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": [
-        "2018.06",
-        null
-      ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "company_name": "蘑菇街",
+      "department_name": "锐鲨技术部",
+      "work_time": ["2020.08",null],
+      "work_desc": "1. 担任蘑菇街·锐鲨企微SCRM产品线技术负责人\n2. 负责蘑菇街·锐鲨电商分销业务应用的维护工作\n3. 负责蘑菇街·锐鲨电商电商中台蘑方、麦田和蜂巢的维护工作",
+      "dataIndex": 0
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": [
-        "2017.06",
-        "2017.12"
-      ],
-      "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+      "company_name": "富士康",
+      "department_name": "工业互联网技术部",
+      "work_time": ["2019.07","2020.02"],
+      "work_desc": "应届生第一份工作。",
+      "dataIndex": 1
     },
     {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": [
-        "2017.03",
-        "2017.05"
-      ],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+      "company_name": "北京仁聚汇通信息科技有限责任公司",
+      "department_name": "技术部",
+      "work_time": ["2017.07","2018.07"],
+      "work_desc": "后端Java开发实习生",
+      "dataIndex": 2
     }
   ],
   "skillList": [
@@ -93,9 +88,10 @@
       "dataIndex": 1
     },
     {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
-      "skill_level": 85
+      "skill_name": "Spring开发脚手架",
+      "skill_desc": "丰富的 Spring Boot 开发脚手架使用经验",
+      "skill_level": 90,
+      "dataIndex": 2
     }
   ],
   "projectList": [
