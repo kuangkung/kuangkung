@@ -94,10 +94,16 @@
       "dataIndex": 2
     },
     {
-      "skill_name": "Vue开发脚手架",
-      "skill_desc": "有一定的 Vue 开发脚手架使用能力",
-      "skill_level": 60,
+      "skill_name": "运维能力",
+      "skill_desc": "熟练使用Linux操作系统和常用命令，可以编写简单的bash脚本",
+      "skill_level": 80,
       "dataIndex": 3
+    },
+    {
+      "skill_name": "前端能力",
+      "skill_desc": "有一定的前端开发知识和 Vue 开发脚手架使用经验",
+      "skill_level": 60,
+      "dataIndex": 4
     }
   ],
   "projectList": [
