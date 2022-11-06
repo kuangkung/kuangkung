@@ -53,7 +53,7 @@
   ],
   "workExpList": [
     {
-      "company_name": "锐鲨科技",
+      "company_name": "锐鲨科技有限公司",
       "department_name": "公共研发部",
       "work_time": ["2020.08",null],
       "work_desc": "1. 蘑菇街·锐鲨企微SCRM产品线技术负责人\n2. 蘑菇街·锐鲨直播业务应用技术负责人\n3. 负责蘑菇街·锐鲨分销业务的迭代和维护工作",
@@ -92,6 +92,12 @@
       "skill_desc": "丰富的 Spring Boot 开发脚手架使用经验",
       "skill_level": 90,
       "dataIndex": 2
+    },
+    {
+      "skill_name": "Vue开发脚手架",
+      "skill_desc": "有一定的Vue开发脚手架使用能力",
+      "skill_level": 60,
+      "dataIndex": 3
     }
   ],
   "projectList": [
