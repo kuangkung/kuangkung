@@ -2,7 +2,7 @@
   "titleNameMap": {
     "educationList": "教育背景",
     "workExpList": "工作经历",
-    "projectList": "项目经历",
+    "projectList": "主要项目经历",
     "skillList": "个人技能",
     "awardList": "更多信息",
     "workList": "个人作品",
@@ -69,7 +69,7 @@
     {
       "company_name": "富士康",
       "department_name": "工业互联网技术部",
-      "work_time": ["2019.07","2020.02"],
+      "work_time": ["2019.07","2020.01"],
       "work_desc": "负责青岛四方轨道交通齿轮箱故障诊断测试系统后端核心开发工作以及日常的项目维护工作",
       "dataIndex": 2
     },
@@ -139,7 +139,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on Java Programming.\n😈 能力项：沟通协调能力、执行力。\n🚀 自驱型后端工程师，两年多大型复杂产品研发经验。\n🚩 负责锐鲨企微 SCRM 产品的研发工作，对建立在企业微信私域流量领域的业务有较为丰富的经验和个人见解。\n📡 锐鲨电商微信小程序直播技术负责人，参与技术方案设计以及开发落地交付。"
+    "aboutme_desc": "🌱 Focus on Java programming and have a strong interest in AI.\n😈 能力项：项目管理能力、沟通协调能力、执行力。\n🚀 自驱型后端工程师，三年多大型复杂产品研发经验。\n🚩 负责锐鲨企微 SCRM 产品的研发工作，对建立在企业微信私域流量领域的业务有较为丰富的经验和个人见解。\n📡 锐鲨电商微信小程序直播应用技术负责人，参与技术方案设计以及开发落地交付。\n🤖 锐鲨AI业务应用技术负责人，搭建Stable Diffusion为设计和运营同学增效，搭建AI机器人在办公协同软件上为公司所有同事提供ChatGPT聊天能力。"
   },
   "theme": {
     "color": "#2f5785",
