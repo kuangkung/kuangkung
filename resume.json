@@ -46,27 +46,29 @@
     },
     {
       "skill_name": "设计模式",
-      "skill_desc": "灵活运用设计模式，如：单例、工厂、策略、责任链等设计模式进行项目开发",
+      "skill_desc": "理解设计原则，能灵活运用单例、工厂、策略、责任链等设计模式进行项目开发",
+      "skill_level": "",
       "dataIndex": 1
-    },
-    {
-      "skill_name": "关系型存储",
-      "skill_desc": "熟悉关系型数据库 MySQL的日常使用，有一定的SQL调优经验",
-      "skill_level": "",
-      "dataIndex": 2
-    },
-    {
-      "skill_name": "关非系型存储",
-      "skill_desc": "熟悉非关系型数据库 Redis 的日常使用，了解过 Redisson 实现的分布式锁源码",
-      "skill_level": "",
-      "dataIndex": 3
     },
     {
       "skill_name": "框架",
       "skill_desc": "熟悉 Spring、SpringMVC、SpringBoot、SpringCloud、Mybaits 等主流开发框架",
       "skill_level": "",
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "关系型存储",
+      "skill_desc": "熟悉关系型数据库 MySQL 的日常使用，有一定的SQL调优经验",
+      "skill_level": "",
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "关非系型存储",
+      "skill_desc": "熟悉非关系型内存数据库 Redis 的日常使用，了解过 Redisson 实现的分布式锁源码",
+      "skill_level": "",
       "dataIndex": 4
     },
+    
     {
       "skill_name": "消息中间件",
       "skill_desc": "熟悉 Kafka、RabbitMQ 等主流消息中间件的日常使用",
