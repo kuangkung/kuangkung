@@ -105,6 +105,16 @@
       "award_info": "英语 CET4",
       "award_time": "2016",
       "dataIndex": 0
+    },
+    {
+      "award_time": "2019",
+      "award_info": "「卓越工程师教育培养计划」证书",
+      "dataIndex": 1
+    },
+    {
+      "award_info": "锐鲨「技术之星」证书",
+      "award_time": "2021.04",
+      "dataIndex": 2
     }
   ],
   "workExpList": [
@@ -112,7 +122,7 @@
       "company_name": "杭州锐鲨科技有限公司（蘑菇街集团）",
       "department_name": "公共研发部",
       "work_time": ["2020.08", "2023.04"],
-      "work_desc": "➢ 锐鲨 AI 业务应用技术负责人\n➢ 锐鲨企微 SCRM 产品线技术负责人\n➢ 锐鲨直播业务应用技术负责人\n➢ 负责锐鲨电商分销等业务的迭代和维护工作",
+      "work_desc": "➢ 锐鲨 AI 业务应用技术负责人\t➢ 锐鲨企微 SCRM 产品线技术负责人\n➢ 锐鲨直播业务应用技术负责人 ➢ 负责锐鲨电商分销等业务的迭代和维护工作",
       "dataIndex": 0
     },
     {
