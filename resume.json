@@ -51,64 +51,53 @@
       "dataIndex": 1
     },
     {
-      "skill_name": "分布式&微服务",
-      "skill_desc": "熟悉分布式常见解决方案：分布式事务、分布式一致性、分布式锁等，熟悉SOA及微服务架构开发框架",
+      "skill_name": "分布式",
+      "skill_desc": "熟悉分布式常见解决方案：分布式事务、分布式一致性、分布式锁等",
       "skill_level": "",
       "dataIndex": 2
+    },
+    {
+      "skill_name": "微服务",
+      "skill_desc": "能熟练的在SOA及微服务架构开发框架下进行开发工作",
+      "skill_level": "",
+      "dataIndex": 3
     },
     {
       "skill_name": "框架",
       "skill_desc": "熟悉 Spring、SpringMVC、SpringBoot、SpringCloud、Mybaits 等主流开发框架",
       "skill_level": "",
-      "dataIndex": 3
+      "dataIndex": 4
     },
     {
       "skill_name": "关系型存储",
       "skill_desc": "熟悉关系型数据库 MySQL 的日常使用，有一定的SQL调优经验",
       "skill_level": "",
-      "dataIndex": 4
+      "dataIndex": 5
     },
     {
       "skill_name": "关非系型存储",
       "skill_desc": "熟悉非关系型内存数据库 Redis 的日常使用，了解过 Redisson 实现的分布式锁源码",
       "skill_level": "",
-      "dataIndex": 5
+      "dataIndex": 6
     },
     
     {
       "skill_name": "消息中间件",
       "skill_desc": "熟悉 Kafka、RabbitMQ 等主流消息中间件的日常使用",
       "skill_level": "",
-      "dataIndex": 6
+      "dataIndex": 7
     },
     {
       "skill_name": "运维能力",
       "skill_desc": "熟练使用 Linux 操作系统和常用命令，有线上分析并解决问题的能力和经验",
       "skill_level": "",
-      "dataIndex": 7
+      "dataIndex": 8
     },
     {
       "skill_name": "高并发",
       "skill_desc": "有高并发、高性能、高可用项目实践、并有性能调优经验",
       "skill_level": "",
-      "dataIndex": 8
-    }
-  ],
-  "awardList": [
-    {
-      "award_info": "英语 CET4",
-      "award_time": "2016",
-      "dataIndex": 0
-    },
-    {
-      "award_time": "2019",
-      "award_info": "「卓越工程师教育培养计划」证书",
-      "dataIndex": 1
-    },
-    {
-      "award_info": "锐鲨「技术之星」证书",
-      "award_time": "2021.04",
-      "dataIndex": 2
+      "dataIndex": 9
     }
   ],
   "workExpList": [
